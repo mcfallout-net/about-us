@@ -1,4 +1,6 @@
 # 關於我們
+![N|Solid](https://www.mcfallout.net/uploads/7/7/9/4/77949402/1460258083.png)
+
 [廢土伺服器]，以及目前伺服器的團隊成員 -- 沒有特別提出的話，主要為為 [LogoCat] 架設
 
 關於LogoCat的話更多可以點擊這裡前往[架設者介紹]，以下簡稱「我」
@@ -32,6 +34,7 @@
 攝影師是絕哥、GG兩位，相關作品可以前往[廢土IG]瀏覽
 
 目前沒有其他需要分享的事情啦！
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 [廢土IG]: <https://www.instagram.com/mcfallout.ig/>
 [廢土伺服器]: <https://mcfallout.net>
