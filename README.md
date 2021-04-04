@@ -17,12 +17,15 @@
 1. [白貓] : 自2018/01/04 開始提供廢土伺服器插件，負責跨分流指令、訊息推送的基礎建設撰寫
 2. [魏丁] : 自2019/11/09 開始提供廢土伺服器插件，負責村民幣系統、跨分流成就同步、跨分流人物檔案同步、造型系統基礎建設撰寫。
 3. [阿任] : 自2020/6月份開始 在廢土伺服器進行網頁開發，負責[RTX Win10 Beta 建築大賞] 網頁端，這是一個與廢土伺服器與NVIDIA台灣合辦，並受到AORUS、MSI、ROG、ZOTAC四間電競廠商贊助的一個合作商案。[RTX 廢土光追村]的網頁端，這是一個在基岩版中，與NVIDIA台灣合作舉辦的建築比賽。
+4. 協助攝影的GG、協助攝影的lightken、協助攝影的絕哥
+5. 協助將攝影師照片，張貼至[廢土Facebook]、[廢土IG]的Anna
 
 當然，玩家皆是在不具備特殊遊戲權限下，自律並互相合作下協助廢土社群的運作。  
 這些協助的大伙們也至關重要，但以上只會列出有「明確合約關係」的人員們。
 
 
 [廢土IG]: <https://www.instagram.com/mcfallout.ig/>
+[廢土Facebook]: <https://www.facebook.com/mcfallout.net>
 [廢土伺服器]: <https://mcfallout.net>
 [廢土Discord]: <https://discord-invite.mcfallout.workers.dev/>
 [架設者介紹]: <https://www.mcfallout.net/plugins.html>
