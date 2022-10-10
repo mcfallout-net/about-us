@@ -20,7 +20,8 @@
  - 2020夏 RTX Win10 Beta 建築大賞 https://rtx.mcfallout.net/
 
 曾合作的非商務單位：
-- MINENTU 臺大麥塊 https://minecraft.myntu.me/
+ - 2021夏 MINENTU 臺大麥塊 <https://minecraft.myntu.me/>
+ - 2022夏 SITCON 學生計算機年會 <https://sitcon.org/2022/sponsor>
 
 
 # 這個 我們 是指?
